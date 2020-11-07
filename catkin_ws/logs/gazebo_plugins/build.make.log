@@ -1,0 +1,40 @@
+[35m[1mScanning dependencies of target gazebo_ros_template[0m
+[  1%] [32mBuilding CXX object CMakeFiles/gazebo_ros_template.dir/src/gazebo_ros_template.cpp.o[0m
+[  2%] [32m[1mLinking CXX shared library /home/karthiksv/catkin_ws/devel/.private/gazebo_plugins/lib/libgazebo_ros_template.so[0m
+[  2%] Built target gazebo_ros_template
+[35m[1mScanning dependencies of target gazebo_ros_vacuum_gripper[0m
+[  3%] [32mBuilding CXX object CMakeFiles/gazebo_ros_vacuum_gripper.dir/src/gazebo_ros_vacuum_gripper.cpp.o[0m
+[  4%] [32m[1mLinking CXX shared library /home/karthiksv/catkin_ws/devel/.private/gazebo_plugins/lib/libgazebo_ros_vacuum_gripper.so[0m
+[  4%] Built target gazebo_ros_vacuum_gripper
+[35m[1mScanning dependencies of target gazebo_ros_range[0m
+[  6%] [32mBuilding CXX object CMakeFiles/gazebo_ros_range.dir/src/gazebo_ros_range.cpp.o[0m
+[  7%] [32m[1mLinking CXX shared library /home/karthiksv/catkin_ws/devel/.private/gazebo_plugins/lib/libgazebo_ros_range.so[0m
+[  7%] Built target gazebo_ros_range
+[35m[1mScanning dependencies of target gazebo_ros_ft_sensor[0m
+[  8%] [32mBuilding CXX object CMakeFiles/gazebo_ros_ft_sensor.dir/src/gazebo_ros_ft_sensor.cpp.o[0m
+[  9%] [32m[1mLinking CXX shared library /home/karthiksv/catkin_ws/devel/.private/gazebo_plugins/lib/libgazebo_ros_ft_sensor.so[0m
+[  9%] Built target gazebo_ros_ft_sensor
+[35m[1mScanning dependencies of target gazebo_ros_planar_move[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/gazebo_ros_planar_move.dir/src/gazebo_ros_planar_move.cpp.o[0m
+[ 12%] [32m[1mLinking CXX shared library /home/karthiksv/catkin_ws/devel/.private/gazebo_plugins/lib/libgazebo_ros_planar_move.so[0m
+[ 12%] Built target gazebo_ros_planar_move
+[35m[1mScanning dependencies of target gazebo_ros_video[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/gazebo_ros_video.dir/src/gazebo_ros_video.cpp.o[0m
+[ 14%] [32m[1mLinking CXX shared library /home/karthiksv/catkin_ws/devel/.private/gazebo_plugins/lib/libgazebo_ros_video.so[0m
+[ 14%] Built target gazebo_ros_video
+[35m[1mScanning dependencies of target gazebo_ros_utils[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/gazebo_ros_utils.dir/src/gazebo_ros_utils.cpp.o[0m
+[ 17%] [32m[1mLinking CXX shared library /home/karthiksv/catkin_ws/devel/.private/gazebo_plugins/lib/libgazebo_ros_utils.so[0m
+[ 17%] Built target gazebo_ros_utils
+[35m[1mScanning dependencies of target gazebo_ros_hand_of_god[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/gazebo_ros_hand_of_god.dir/src/gazebo_ros_hand_of_god.cpp.o[0m
+[01m[K/home/karthiksv/catkin_ws/src/vb_simulation_pkgs/gazebo_ros_pkgs/gazebo_plugins/src/gazebo_ros_hand_of_god.cpp:204:1:[m[K [01;31m[Kfatal error: [m[Kerror writing to /tmp/cc78CiZK.s: No space left on device
+ [01;31m[K}[m[K
+ [01;31m[K^[m[K
+compilation terminated.
+CMakeFiles/gazebo_ros_hand_of_god.dir/build.make:62: recipe for target 'CMakeFiles/gazebo_ros_hand_of_god.dir/src/gazebo_ros_hand_of_god.cpp.o' failed
+CMakeFiles/Makefile2:458: recipe for target 'CMakeFiles/gazebo_ros_hand_of_god.dir/all' failed
+Makefile:140: recipe for target 'all' failed
+make[2]: *** [CMakeFiles/gazebo_ros_hand_of_god.dir/src/gazebo_ros_hand_of_god.cpp.o] Error 1
+make[1]: *** [CMakeFiles/gazebo_ros_hand_of_god.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,8 @@
+prefix=/home/karthiksv/catkin_ws/install
+
+Name: pkg_ros_pkg_task1
+Description: Description of pkg_ros_pkg_task1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

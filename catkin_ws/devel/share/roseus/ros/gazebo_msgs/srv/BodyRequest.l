@@ -1,0 +1,1 @@
+/home/karthiksv/catkin_ws/devel/.private/gazebo_msgs/share/roseus/ros/gazebo_msgs/srv/BodyRequest.l

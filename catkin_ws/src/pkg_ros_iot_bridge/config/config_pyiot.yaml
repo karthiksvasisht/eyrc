@@ -1,0 +1,16 @@
+# config_iot_ros.yaml 
+# IoT Configuration
+config_iot:
+  mqtt:
+    server_url: "broker.mqttdashboard.com"        # http://www.hivemq.com/demos/websocket-client/
+    
+    server_port: 1883
+    topic_sub: "eyrc/rKRbkViK/iot_to_ros"          # <unique_id> = xYzqLm
+    topic_pub: "eyrc/rKRbkViK/ros_to_iot"          # <unique_id> = xYzqLm
+    qos: 0
+
+    sub_cb_ros_topic: "/ros_iot_bridge/mqtt/sub"
+   
+  google_apps:
+    spread_sheet_id: "AKfycbyllu1XA4z2Ywxpc0ujVLfTuiEoCxbG2ezb_0_EOaDiPVRXUqw"
+

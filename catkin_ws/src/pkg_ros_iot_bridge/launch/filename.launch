@@ -1,0 +1,9 @@
+ <launch>
+
+<node pkg="pkg_ros_iot_bridge" type="node_action_server_ros_iot_bridge.py" name="node_action_server_ros_iot_bridge.py"
+output="screen"/>
+
+<rosparam file ="$(find pkg_ros_iot_bridge)/config/config_my.yaml"/>
+
+ </launch>
+

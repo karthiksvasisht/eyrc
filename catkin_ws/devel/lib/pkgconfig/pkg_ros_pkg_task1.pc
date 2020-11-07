@@ -1,0 +1,1 @@
+/home/karthiksv/catkin_ws/devel/.private/pkg_ros_pkg_task1/lib/pkgconfig/pkg_ros_pkg_task1.pc

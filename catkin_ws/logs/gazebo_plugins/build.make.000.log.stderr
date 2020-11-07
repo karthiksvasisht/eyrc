@@ -1,0 +1,7 @@
+[01m[K/home/karthiksv/catkin_ws/src/vb_simulation_pkgs/gazebo_ros_pkgs/gazebo_plugins/src/gazebo_ros_hand_of_god.cpp:204:1:[m[K [01;31m[Kfatal error: [m[Kerror writing to /tmp/cc78CiZK.s: No space left on device
+ [01;31m[K}[m[K
+ [01;31m[K^[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/gazebo_ros_hand_of_god.dir/src/gazebo_ros_hand_of_god.cpp.o] Error 1
+make[1]: *** [CMakeFiles/gazebo_ros_hand_of_god.dir/all] Error 2
+make: *** [all] Error 2
